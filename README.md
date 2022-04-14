@@ -53,8 +53,7 @@ What I found most challenging in the light and sound memory game was understandi
 
 How I solved it.
 After watching the video several times  and realizing that what I had trouble with was understanding  the logical flow. I called on my peers Andrew and Michelle. We watched the demo video together and tried to explain to each other how the game worked and when to display the user has won and when to display the user has lost. I later came back and watched the video myself, this time transferring exactly what the person in the video said into my notes( see screenshot 1) .  I came to understand that a user has 8 turns and if at any turn they click the wrong button or clue and mess with the sequence they would have lost the game . However, if they went the whole 8 turns without messing up the sequence as in when they clicked all the right buttons or clues they would have won.(screen shot 2 below)
-
-Screenshot 1                                                   Screenshot 2 
+https://github.com/PhoebeAkoth/codepath-prework/issues/2
 
 ]
 

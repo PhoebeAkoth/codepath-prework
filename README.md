@@ -4,7 +4,7 @@ Submitted by: **Phoebe Daisy Akoth**
 
 Time spent: **9** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://phoebe-akoth.glitch.me)
 
 ## Required Functionality
 
